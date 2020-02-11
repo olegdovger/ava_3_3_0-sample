@@ -1,0 +1,1 @@
+Test sample with ava 3.3.0
